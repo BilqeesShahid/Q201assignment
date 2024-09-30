@@ -4,10 +4,8 @@ import "./globals.css";
 import HeaderTop from "@/components/HeaderTop";
 import HeaderMain from "@/components/HeaderMain";
 import Navbar from "@/components/Navbar";
-import Hero from "@/components/Hero";
 import "slick-carousel/slick/slick.css" ;
 import "slick-carousel/slick/slick-theme.css";
-import NewProducts from "@/components/NewProducts";
 import MobNavbar from "@/components/MobNavbar";
 import Footer from "@/components/Footer";
 
