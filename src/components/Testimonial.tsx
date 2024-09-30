@@ -18,14 +18,14 @@ const Testimonial = () => {
               height={80}
               alt="dp"/>
               <h2 className='text-gray-500 font-black text-[20px]'>Bilqees Shahid</h2>
-              <p>CEO & Founder Invision</p>
+              <p>CEO and Founder Invision</p>
               <Image className='inline-block py-2'
               src="/quotes.jpg"
               width={30}
               height={30}
               alt="quotes"/>
               <p className='max-w-[200px] text-gray-500'>
-              "The best shopping experience I've had in years! The quality of the clothes is top-notch and shipping was super fast."
+              The best shopping experience I have had in years! The quality of the clothes is top-notch and shipping was super fast.
               </p>
             </div>
           </div>
