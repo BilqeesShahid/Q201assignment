@@ -1,6 +1,6 @@
 import React from 'react'
 import ProductCard from './ProductCard'
-import Image from 'next/image'
+
 
 
 const newProductData=[
